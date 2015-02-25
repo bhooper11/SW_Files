@@ -1,0 +1,3 @@
+Progressive Hop calculations (diminishing volume)
+Revisions on Recipes, Sessions on  brews of revisions of recipes.
+Cloud Storage, Remote Access to droid/iphone app
